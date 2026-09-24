@@ -1,6 +1,6 @@
 # MyDuck
 
-教 MicroDuck（约 800 g、25 cm 双足机器人，14 个 XL330 舵机）挑战五件事：**平地极速冲刺**、**跟着音乐跳 DJ**、**踩篮球杂耍平衡**、**踩高跷（10cm→2m 课程复现）**、**360° 荡秋千（刚性杆全圈）**——RL 训练的运动策略 + 评估/出片管线。
+教 MicroDuck（约 800 g、25 cm 双足机器人，14 个 XL330 舵机）挑战五件事：**平地极速冲刺**、**跟着音乐跳 DJ**、**踩篮球杂耍平衡**、**踩高跷（10cm→2m 课程复现）**、**360° 荡秋千（刚性杆全圈）**——RL强化学习训练的运动策略 + 评估/出片管线。
 
 基于 [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)（机器人本体/runtime）与 [pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl)（mjlab/MuJoCo Warp + PPO 训练框架，本仓库以 fork + submodule 方式扩展）。
 
